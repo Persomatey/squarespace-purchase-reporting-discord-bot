@@ -1,0 +1,1 @@
+# squarespace-purchase-reporting-discord-bot
