@@ -1,0 +1,29 @@
+{
+  "name": "squarespace-purchase-reporter-bot",
+  "description": "Reports when a purcahse has been made.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hunter Goodin (Persomatey)",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^17.4.2",
+    "express": "^5.3.0"
+  },
+  "version": "1.0.0",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Persomatey/squarespace-purchase-reporter-discord-bot.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Persomatey/squarespace-purchase-reporter-discord-bot/issues"
+  },
+  "homepage": "https://github.com/Persomatey/squarespace-purchase-reporter-discord-bot#readme"
+}
